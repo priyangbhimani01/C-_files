@@ -54,8 +54,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/prite/OneDrive/Desktop/Git/priyangbhimani01",
-      "program": "c:/Users/prite/OneDrive/Desktop/Git/priyangbhimani01/build/Debug/outDebug",
+      "cwd": "c:/Users/prite/OneDrive/Desktop/Git/c++_files",
+      "program": "c:/Users/prite/OneDrive/Desktop/Git/c++_files/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
