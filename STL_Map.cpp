@@ -11,6 +11,13 @@ int main(){
     m[5]="krupa";
 
     for(auto i:m){
-        cout<<i.first <<" "<<i.second;
+        cout<<i.first <<" "<<i.second <<" ";
+    }
+    cout<<endl;
+
+    m.insert({6,"Himmatbhai"});
+    m.insert({7,"Kamlaben"});
+    for(auto i:m){
+        cout<<i.first <<" "<<i.second << " ";
     }
 }

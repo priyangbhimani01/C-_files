@@ -11,7 +11,7 @@ int main(){
         cout<<a[i]<<" ";
     }cout<<endl;
 
-    cout<<"2nd index of array is "<<a[2]<<endl;
+    cout<<"2nd index of array is "<<a.at(1)<<endl;
     cout<<"array is empty or not "<<a.empty()<<endl;
 
     cout<<"first element of array is "<<a.front()<<endl;
